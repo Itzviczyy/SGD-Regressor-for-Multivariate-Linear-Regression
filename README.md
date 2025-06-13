@@ -25,7 +25,7 @@ To write a program to predict the price of the house and number of occupants in 
 8.End
 
 ## Program:
-```
+```python
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
